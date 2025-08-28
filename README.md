@@ -24,5 +24,5 @@ Includes both **Jupyter Notebook analysis** and an **interactive Streamlit dashb
 - **Jupyter Notebook** for analysis
 
 ---
+<img width="1777" height="1082" alt="image" src="https://github.com/user-attachments/assets/0adc686d-063a-4c14-b994-04d68c0295b0" />
 
-## 📂 Project Structure
